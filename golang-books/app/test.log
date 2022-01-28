@@ -1,0 +1,263 @@
+2021/07/09 08:29:25 logging.go:22: logging
+2021/07/09 08:29:25 logging.go:23: string test 
+2021/07/09 08:29:25 logging.go:31: Exit open kdndmkla: no such file or directory
+2021/07/09 08:30:49 /home/app/src/udemy/logging/logging.go:22: logging
+2021/07/09 08:30:49 /home/app/src/udemy/logging/logging.go:23: string test 
+2021/07/09 08:30:49 /home/app/src/udemy/logging/logging.go:31: Exit open kdndmkla: no such file or directory
+2021/07/09 13:18:34 logging.go:22: logging
+2021/07/09 13:18:34 logging.go:23: string test 
+2021/07/09 13:18:34 logging.go:31: Exit open kdndmkla: no such file or directory
+2021/07/09 13:19:04 logging.go:22: logging
+2021/07/09 13:19:04 logging.go:23: string test 
+2021/07/09 13:22:22 logging.go:22: logging
+2021/07/09 13:22:22 logging.go:23: string test 
+2021/07/09 13:22:22 errorHandle.go:27: Error chdir test: no such file or directory
+2021/07/09 13:22:42 logging.go:22: logging
+2021/07/09 13:22:42 logging.go:23: string test 
+2021/07/09 13:22:42 errorHandle.go:27: Error chdir array: no such file or directory
+2021/07/09 13:22:56 logging.go:22: logging
+2021/07/09 13:22:56 logging.go:23: string test 
+2021/07/09 13:22:56 errorHandle.go:27: Error chdir udemy: no such file or directory
+2021/07/09 13:23:10 logging.go:22: logging
+2021/07/09 13:23:10 logging.go:23: string test 
+2021/07/09 13:23:35 logging.go:22: logging
+2021/07/09 13:23:35 logging.go:23: string test 
+2021/07/09 13:23:35 errorHandle.go:27: Error chdir test: no such file or directory
+2021/07/09 13:23:44 logging.go:22: logging
+2021/07/09 13:23:44 logging.go:23: string test 
+2021/07/09 13:25:57 logging.go:22: logging
+2021/07/09 13:25:57 logging.go:23: string test 
+2021/07/09 13:33:37 logging.go:22: logging
+2021/07/09 13:33:37 logging.go:23: string test 
+2021/07/09 13:36:35 logging.go:22: logging
+2021/07/09 13:36:35 logging.go:23: string test 
+2021/07/09 13:37:42 logging.go:22: logging
+2021/07/09 13:37:42 logging.go:23: string test 
+2021/07/09 13:46:31 logging.go:22: logging
+2021/07/09 13:46:31 logging.go:23: string test 
+2021/07/09 13:46:48 logging.go:22: logging
+2021/07/09 13:46:48 logging.go:23: string test 
+2021/07/09 13:47:31 logging.go:22: logging
+2021/07/09 13:47:31 logging.go:23: string test 
+2021/07/09 13:49:15 logging.go:22: logging
+2021/07/09 13:49:15 logging.go:23: string test 
+2021/07/09 13:50:35 logging.go:22: logging
+2021/07/09 13:50:35 logging.go:23: string test 
+2021/07/09 13:56:30 logging.go:22: logging
+2021/07/09 13:56:30 logging.go:23: string test 
+2021/07/09 14:00:10 logging.go:22: logging
+2021/07/09 14:00:10 logging.go:23: string test 
+2021/07/09 14:02:04 logging.go:22: logging
+2021/07/09 14:02:04 logging.go:23: string test 
+2021/07/09 14:02:11 logging.go:22: logging
+2021/07/09 14:02:11 logging.go:23: string test 
+2021/07/09 14:03:12 logging.go:22: logging
+2021/07/09 14:03:12 logging.go:23: string test 
+2021/07/09 14:03:48 logging.go:22: logging
+2021/07/09 14:03:48 logging.go:23: string test 
+2021/07/09 14:07:16 logging.go:22: logging
+2021/07/09 14:07:16 logging.go:23: string test 
+2021/07/09 14:07:22 logging.go:22: logging
+2021/07/09 14:07:22 logging.go:23: string test 
+2021/07/09 14:07:51 logging.go:22: logging
+2021/07/09 14:07:51 logging.go:23: string test 
+2021/07/09 14:08:06 logging.go:22: logging
+2021/07/09 14:08:06 logging.go:23: string test 
+2021/07/09 14:08:20 logging.go:22: logging
+2021/07/09 14:08:20 logging.go:23: string test 
+2021/07/09 14:08:43 logging.go:22: logging
+2021/07/09 14:08:43 logging.go:23: string test 
+2021/07/09 14:09:47 logging.go:22: logging
+2021/07/09 14:09:47 logging.go:23: string test 
+2021/07/09 14:10:52 logging.go:22: logging
+2021/07/09 14:10:52 logging.go:23: string test 
+2021/07/09 14:11:29 logging.go:22: logging
+2021/07/09 14:11:29 logging.go:23: string test 
+2021/07/09 14:12:27 logging.go:22: logging
+2021/07/09 14:12:27 logging.go:23: string test 
+2021/07/09 14:14:30 logging.go:22: logging
+2021/07/09 14:14:30 logging.go:23: string test 
+2021/07/09 14:18:08 logging.go:22: logging
+2021/07/09 14:18:08 logging.go:23: string test 
+2021/07/09 14:20:14 logging.go:22: logging
+2021/07/09 14:20:14 logging.go:23: string test 
+2021/07/09 14:21:22 logging.go:22: logging
+2021/07/09 14:21:22 logging.go:23: string test 
+2021/07/09 14:21:52 logging.go:22: logging
+2021/07/09 14:21:52 logging.go:23: string test 
+2021/07/09 15:02:43 logging.go:22: logging
+2021/07/09 15:02:43 logging.go:23: string test 
+2021/07/09 15:03:32 logging.go:22: logging
+2021/07/09 15:03:32 logging.go:23: string test 
+2021/07/09 15:04:03 logging.go:22: logging
+2021/07/09 15:04:03 logging.go:23: string test 
+2021/07/09 15:12:24 logging.go:22: logging
+2021/07/09 15:12:24 logging.go:23: string test 
+2021/07/09 15:12:47 logging.go:22: logging
+2021/07/09 15:12:47 logging.go:23: string test 
+2021/07/09 15:13:18 logging.go:22: logging
+2021/07/09 15:13:18 logging.go:23: string test 
+2021/07/09 15:13:37 logging.go:22: logging
+2021/07/09 15:13:37 logging.go:23: string test 
+2021/07/09 15:13:49 logging.go:22: logging
+2021/07/09 15:13:49 logging.go:23: string test 
+2021/07/09 15:13:57 logging.go:22: logging
+2021/07/09 15:13:57 logging.go:23: string test 
+2021/07/09 15:14:15 logging.go:22: logging
+2021/07/09 15:14:15 logging.go:23: string test 
+2021/07/09 15:14:56 logging.go:22: logging
+2021/07/09 15:14:56 logging.go:23: string test 
+2021/07/09 15:16:06 logging.go:22: logging
+2021/07/09 15:16:06 logging.go:23: string test 
+2021/07/09 15:28:31 logging.go:22: logging
+2021/07/09 15:28:31 logging.go:23: string test 
+2021/07/09 15:29:15 logging.go:22: logging
+2021/07/09 15:29:15 logging.go:23: string test 
+2021/07/09 15:29:23 logging.go:22: logging
+2021/07/09 15:29:23 logging.go:23: string test 
+2021/07/09 15:29:27 logging.go:22: logging
+2021/07/09 15:29:27 logging.go:23: string test 
+2021/07/09 15:31:33 logging.go:22: logging
+2021/07/09 15:31:33 logging.go:23: string test 
+2021/07/10 00:57:24 logging.go:22: logging
+2021/07/10 00:57:24 logging.go:23: string test 
+2021/07/10 00:58:22 logging.go:22: logging
+2021/07/10 00:58:22 logging.go:23: string test 
+2021/07/10 01:01:17 logging.go:22: logging
+2021/07/10 01:01:17 logging.go:23: string test 
+2021/07/10 01:17:21 logging.go:22: logging
+2021/07/10 01:17:21 logging.go:23: string test 
+2021/07/10 01:17:32 logging.go:22: logging
+2021/07/10 01:17:32 logging.go:23: string test 
+2021/07/10 01:18:10 logging.go:22: logging
+2021/07/10 01:18:10 logging.go:23: string test 
+2021/07/10 01:18:45 logging.go:22: logging
+2021/07/10 01:18:45 logging.go:23: string test 
+2021/07/10 01:19:08 logging.go:22: logging
+2021/07/10 01:19:08 logging.go:23: string test 
+2021/07/10 01:19:17 logging.go:22: logging
+2021/07/10 01:19:17 logging.go:23: string test 
+2021/07/10 01:19:26 logging.go:22: logging
+2021/07/10 01:19:26 logging.go:23: string test 
+2021/07/10 01:19:33 logging.go:22: logging
+2021/07/10 01:19:33 logging.go:23: string test 
+2021/07/10 01:20:20 logging.go:22: logging
+2021/07/10 01:20:20 logging.go:23: string test 
+2021/07/10 01:20:31 logging.go:22: logging
+2021/07/10 01:20:31 logging.go:23: string test 
+2021/07/10 01:20:48 logging.go:22: logging
+2021/07/10 01:20:48 logging.go:23: string test 
+2021/07/10 02:27:48 logging.go:22: logging
+2021/07/10 02:27:48 logging.go:23: string test 
+2021/07/10 02:30:00 logging.go:22: logging
+2021/07/10 02:30:00 logging.go:23: string test 
+2021/07/10 02:30:07 logging.go:22: logging
+2021/07/10 02:30:07 logging.go:23: string test 
+2021/07/10 02:33:00 logging.go:22: logging
+2021/07/10 02:33:00 logging.go:23: string test 
+2021/07/10 02:35:20 logging.go:22: logging
+2021/07/10 02:35:20 logging.go:23: string test 
+2021/07/10 02:41:55 logging.go:22: logging
+2021/07/10 02:41:55 logging.go:23: string test 
+2021/07/10 02:43:49 logging.go:22: logging
+2021/07/10 02:43:49 logging.go:23: string test 
+2021/07/10 02:44:32 logging.go:22: logging
+2021/07/10 02:44:32 logging.go:23: string test 
+2021/07/10 02:44:44 logging.go:22: logging
+2021/07/10 02:44:44 logging.go:23: string test 
+2021/07/10 02:50:32 logging.go:22: logging
+2021/07/10 02:50:32 logging.go:23: string test 
+2021/07/10 02:54:20 logging.go:22: logging
+2021/07/10 02:54:20 logging.go:23: string test 
+2021/07/12 14:07:21 logging.go:22: logging
+2021/07/12 14:07:21 logging.go:23: string test 
+2021/07/12 14:07:33 logging.go:22: logging
+2021/07/12 14:07:33 logging.go:23: string test 
+2021/07/12 14:10:48 logging.go:22: logging
+2021/07/12 14:10:48 logging.go:23: string test 
+2021/07/12 14:10:54 logging.go:22: logging
+2021/07/12 14:10:54 logging.go:23: string test 
+2021/07/12 14:11:12 logging.go:22: logging
+2021/07/12 14:11:12 logging.go:23: string test 
+2021/07/12 14:11:58 logging.go:22: logging
+2021/07/12 14:11:58 logging.go:23: string test 
+2021/07/12 14:13:22 logging.go:22: logging
+2021/07/12 14:13:22 logging.go:23: string test 
+2021/07/12 14:14:14 logging.go:22: logging
+2021/07/12 14:14:14 logging.go:23: string test 
+2021/07/12 14:14:30 logging.go:22: logging
+2021/07/12 14:14:30 logging.go:23: string test 
+2021/07/12 14:18:00 logging.go:22: logging
+2021/07/12 14:18:00 logging.go:23: string test 
+2021/07/12 14:18:32 logging.go:22: logging
+2021/07/12 14:18:32 logging.go:23: string test 
+2021/07/12 14:18:38 logging.go:22: logging
+2021/07/12 14:18:38 logging.go:23: string test 
+2021/07/12 14:22:32 logging.go:22: logging
+2021/07/12 14:22:32 logging.go:23: string test 
+2021/07/12 14:22:39 logging.go:22: logging
+2021/07/12 14:22:39 logging.go:23: string test 
+2021/07/12 14:23:10 logging.go:22: logging
+2021/07/12 14:23:10 logging.go:23: string test 
+2021/07/12 14:23:28 logging.go:22: logging
+2021/07/12 14:23:28 logging.go:23: string test 
+2021/07/12 14:23:38 logging.go:22: logging
+2021/07/12 14:23:38 logging.go:23: string test 
+2021/07/12 14:28:23 logging.go:22: logging
+2021/07/12 14:28:23 logging.go:23: string test 
+2021/07/12 14:28:41 logging.go:22: logging
+2021/07/12 14:28:41 logging.go:23: string test 
+2021/07/12 14:30:07 logging.go:22: logging
+2021/07/12 14:30:07 logging.go:23: string test 
+2021/07/12 14:33:11 logging.go:22: logging
+2021/07/12 14:33:11 logging.go:23: string test 
+2021/07/12 14:33:30 logging.go:22: logging
+2021/07/12 14:33:30 logging.go:23: string test 
+2021/07/12 14:35:56 logging.go:22: logging
+2021/07/12 14:35:56 logging.go:23: string test 
+2021/07/12 14:37:04 logging.go:22: logging
+2021/07/12 14:37:04 logging.go:23: string test 
+2021/07/12 14:44:14 logging.go:22: logging
+2021/07/12 14:44:14 logging.go:23: string test 
+2021/07/12 14:44:25 logging.go:22: logging
+2021/07/12 14:44:25 logging.go:23: string test 
+2021/07/12 14:44:28 logging.go:22: logging
+2021/07/12 14:44:28 logging.go:23: string test 
+2021/07/12 14:45:35 logging.go:22: logging
+2021/07/12 14:45:35 logging.go:23: string test 
+2021/07/12 14:53:41 logging.go:22: logging
+2021/07/12 14:53:41 logging.go:23: string test 
+2021/07/12 14:54:06 logging.go:22: logging
+2021/07/12 14:54:06 logging.go:23: string test 
+2021/07/12 14:59:28 logging.go:22: logging
+2021/07/12 14:59:28 logging.go:23: string test 
+2021/07/12 15:06:22 logging.go:22: logging
+2021/07/12 15:06:22 logging.go:23: string test 
+2021/07/12 15:06:44 logging.go:22: logging
+2021/07/12 15:06:44 logging.go:23: string test 
+2021/07/12 15:06:49 logging.go:22: logging
+2021/07/12 15:06:49 logging.go:23: string test 
+2021/07/12 15:06:57 logging.go:22: logging
+2021/07/12 15:06:57 logging.go:23: string test 
+2021/07/12 15:07:10 logging.go:22: logging
+2021/07/12 15:07:10 logging.go:23: string test 
+2021/07/12 15:08:09 logging.go:22: logging
+2021/07/12 15:08:09 logging.go:23: string test 
+2021/07/12 15:10:52 logging.go:22: logging
+2021/07/12 15:10:52 logging.go:23: string test 
+2021/07/12 15:13:41 logging.go:22: logging
+2021/07/12 15:13:41 logging.go:23: string test 
+2021/07/12 15:20:03 logging.go:22: logging
+2021/07/12 15:20:03 logging.go:23: string test 
+2021/07/12 15:26:40 logging.go:22: logging
+2021/07/12 15:26:40 logging.go:23: string test 
+2021/07/12 15:31:57 logging.go:22: logging
+2021/07/12 15:31:57 logging.go:23: string test 
+2021/07/12 15:32:44 logging.go:22: logging
+2021/07/12 15:32:44 logging.go:23: string test 
+2021/07/12 15:33:48 logging.go:22: logging
+2021/07/12 15:33:48 logging.go:23: string test 
+2021/07/12 15:52:13 logging.go:22: logging
+2021/07/12 15:52:13 logging.go:23: string test 
+2021/07/12 15:54:43 logging.go:22: logging
+2021/07/12 15:54:43 logging.go:23: string test 

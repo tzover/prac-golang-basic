@@ -1,0 +1,1 @@
+unexpected gopls setting "enhancedHover"
